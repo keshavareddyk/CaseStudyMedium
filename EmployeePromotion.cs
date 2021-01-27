@@ -89,7 +89,6 @@ namespace CaseStudyMedium
             {
                 foreach (var em in emp)
                 {
-                    Console.WriteLine("No employee exists with the given name");
                     Console.WriteLine(em);
                 }
             }
